@@ -1,5 +1,5 @@
 Software Engineering student and Open Source Enthusiaist. Interested in fullstack development and DevOps
 
-Currently learning React, Typescript and Golang
+Currently learning Typescript, Golang and React
 
 And btw, I use Arch 
