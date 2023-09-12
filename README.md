@@ -1,1 +1,4 @@
-Software Engineering student, Linux and Open Source Enthusiaist. 
+muslim, software engineering student and aspiring backend dev.
+
+- go and typescript 
+- linux and open source enthusiast
