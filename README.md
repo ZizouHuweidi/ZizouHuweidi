@@ -1,4 +1,4 @@
 muslim, software engineering student and aspiring backend dev.
 
-- go and typescript 
+- go, typescript and c++
 - linux and open source enthusiast
