@@ -1,4 +1,1 @@
-muslim, software engineering student and aspiring backend dev.
-
-- go, typescript and c++
-- linux and open source enthusiast
+muslim, software engineering student, open source enthusiast and aspiring backend dev.
