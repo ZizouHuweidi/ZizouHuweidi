@@ -1,1 +1,1 @@
-muslim, software engineering student, open source enthusiast and aspiring backend dev.
+muslim, software engineering student and open source enthusiast
