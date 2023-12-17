@@ -1,1 +1,1 @@
-muslim, software engineering student and open source enthusiast
+muslim, software engineer and open source enthusiast
