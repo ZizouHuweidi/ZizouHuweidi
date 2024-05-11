@@ -1,1 +1,1 @@
-backend engineer interested in distributed systems. foss and linux enthusiast
+Go, FOSS and Linux enthusiast. Backend engineer intrested in distributed systems
