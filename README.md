@@ -1,1 +1,1 @@
-Go, FOSS and Linux enthusiast. Backend engineer intrested in distributed systems
+FOSS Enthusiast. Simplicity Enjoyer. Backend and Distributed Systems.
