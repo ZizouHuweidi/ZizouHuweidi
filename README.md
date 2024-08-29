@@ -1,1 +1,1 @@
-FOSS Enthusiast. Simplicity Enjoyer. Backend and Distributed Systems.
+FOSS Enthusiast. Simplicity Enjoyer. Distributed Systems and ML.
