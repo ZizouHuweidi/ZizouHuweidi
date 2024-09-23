@@ -1,1 +1,1 @@
-FOSS Enthusiast. Simplicity Enjoyer. Distributed Systems and ML.
+FOSS Enthusiast. Simplicity Enjoyer. Backend Developer interested in System Design and ML.
