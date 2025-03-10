@@ -1,1 +1,1 @@
-Backend Developer interested in System Design and ML.
+Backend Developer interested in System Design and AI
