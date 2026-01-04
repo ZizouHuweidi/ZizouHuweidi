@@ -1,1 +1,1 @@
-Backend Developer interested in System Design and FOSS
+Backend Developer interested in System Design, Data Engineering and FOSS
